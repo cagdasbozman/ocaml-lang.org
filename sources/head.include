@@ -1,5 +1,7 @@
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
   <link rel="stylesheet" type="text/css" title="main" media="screen" href="css/main.css" />
+
   <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
   <meta name="keywords"
   content="Objective-Caml,Objective,Caml,Ocaml,compilers,patches,caml-light,sml,haskell,scheme,lisp,functional,languages,ocamlc,ocamlopt,cmo,cmx,cma,platform,development,open-source,free-software,native" />

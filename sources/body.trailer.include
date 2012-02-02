@@ -1,17 +1,33 @@
+    </div>
+  </div>
 </div>
 
-
-<div id="RightMenu">
-<!--<a id="RightMenuLink" href="news.html" title="News">Latest News</a><br/> -->
-<a id="RightMenuLink" href="download.html" title="Install Objective-Caml">Download</a><br/>
-<a id="RightMenuLink" href="features.html" title="Discover OCaml Features">Features</a><br/>
-<a id="RightMenuLink" href="tutorials.html" title="Links to tutorials">Tutorials</a><br/>
-<a id="RightMenuLink" href="documentation.html" title="Documentation">Documentation</a><br/>
-<a id="RightMenuLink" href="community.html" title="Join the OCaml community">Community</a><br/>
-<a id="RightMenuLink" href="applications.html" title="Discover what you can develop with OCaml">Applications</a><br/>
-<a id="RightMenuLink" href="support.html" title="Licencing issues">Support</a><br/>
-<!--<a id="RightMenuLink" href="contributing.html">Contributing</a><br/> -->
-<a id="RightMenuLink" href="http://caml.inria.fr/ocaml/" title="INRIA Website">Inria Website</a><br/>
+<div class="footer">
+  <div class="container">
+   <div class="rows">
+    <div class="offset2 span3">
+     <ul>
+       <li><h4><a href="index..html">Learn</a></h4></li>
+        <li><a href="features.html">Features</a></li>
+        <li><a href="tutorials.html">Tutorials</a></li>
+        <li><a href="applications.html">Applications</a></li>
+     </ul>
+    </div>
+    <div class="span3">
+      <ul>
+        <li><h4><a href="index.html">Use</a></h4></li>
+        <li><a href="download.html">Download</a></li>
+       <li><a href="documentation.html">Documentation</a></li>
+       <li><a href="community.html">Community</a></li>
+       <li><a href="support.html">Support</a></li>
+      </ul>
+    </div>
+   </div>
+  </div>
 </div>
-
+<div class="container">
+ <div class="contribute">
+   You can contribute to this website by cloning the project on
+   <a href="https://www.github.com/OCamlPro/ocaml-lang.org">github</a>.
+ </div>
 </div>
