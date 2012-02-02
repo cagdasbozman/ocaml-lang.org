@@ -1,0 +1,16 @@
+
+<div id="LeftMenu">
+<!--<a id="LeftMenuLink" href="news.html" title="News">Latest News</a><br/> -->
+<a id="LeftMenuLink" href="download.html" title="Install Objective-Caml">Download</a><br/>
+<a id="LeftMenuLink" href="features.html" title="Discover OCaml Features">Features</a><br/>
+<a id="LeftMenuLink" href="tutorials.html" title="Links to tutorials">Tutorials</a><br/>
+<a id="LeftMenuLink" href="documentation.html" title="Documentation">Documentation</a><br/>
+<a id="LeftMenuLink" href="community.html" title="Join the OCaml community">Community</a><br/>
+<a id="LeftMenuLink" href="applications.html" title="Discover what you can develop with OCaml">Applications</a><br/>
+<a id="LeftMenuLink" href="support.html" title="Licencing issues">Support</a><br/>
+<!--<a id="LeftMenuLink" href="contributing.html">Contributing</a><br/> -->
+<a id="LeftMenuLink" href="http://caml.inria.fr/ocaml/" title="INRIA Website">Inria Website</a><br/>
+</div>
+
+<div id="Content" class="Content">
+

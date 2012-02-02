@@ -1,0 +1,19 @@
+<script src="js/main.js" type="text/javascript"></script>
+<div id="Header">
+  <div id="Download">
+     <a href="download.html">
+          <div>Download</div>
+          <img src="images/download.png" width="60" />
+          <div>OCaml 3.12.1</div>
+</a>
+  </div>
+  <h1><a href="index.html" title="OCaml">The OCaml Programming Language</a></h1>
+
+  <div id="Tools">
+    <div id="DisplayPrintWindow">
+      <a href="javascript:void(PrevuImpression());" title="Print">
+      <img src="images/printer.png" alt="Preview Print"></a>
+    </div>
+  </div>
+</div>
+<div id="Main">
