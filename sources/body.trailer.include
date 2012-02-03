@@ -1,27 +1,31 @@
     </div>
+   </div>
   </div>
 </div>
 
 <div class="footer">
   <div class="container">
    <div class="rows">
-    <div class="offset2 span3">
-     <ul>
-       <li><h4><a href="index..html">Learn</a></h4></li>
-        <li><a href="features.html">Features</a></li>
-        <li><a href="tutorials.html">Tutorials</a></li>
-        <li><a href="applications.html">Applications</a></li>
-     </ul>
-    </div>
-    <div class="span3">
+
+    <div class="offset3 span3">
       <ul>
-        <li><h4><a href="index.html">Use</a></h4></li>
+        <li><h4>Use</h4></li>
         <li><a href="download.html">Download</a></li>
        <li><a href="documentation.html">Documentation</a></li>
-       <li><a href="community.html">Community</a></li>
        <li><a href="support.html">Support</a></li>
       </ul>
     </div>
+
+    <div class="span3">
+     <ul>
+       <li><h4>Learn</h4></li>
+        <li><a href="features.html">Features</a></li>
+        <li><a href="tutorials.html">Tutorials</a></li>
+       <li><a href="community.html">Community</a></li>
+        <li><a href="applications.html">Applications</a></li>
+     </ul>
+    </div>
+
    </div>
   </div>
 </div>

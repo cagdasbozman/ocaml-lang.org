@@ -27,3 +27,18 @@ function PrevuImpression(){
     docprint.document.write(strprint);
     docprint.focus();
 }
+
+function endsWith(str, suffix) {
+    return str.indexOf(suffix, str.length - suffix.length) !== -1;
+}
+
+$(function(){
+  $("a").each(function(){
+          var href = $(this).attr("href");
+          if (window.location.pathname.substr(-href.length) == href) {
+              console.log("found");
+              $(this).addClass("current");
+          }
+      })
+      })
+
