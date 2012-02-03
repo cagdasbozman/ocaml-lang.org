@@ -144,6 +144,7 @@ a:hover {
 }
 
 #leftmenu {
+  position: fixed;
   padding-top: 20px;
 }
 
