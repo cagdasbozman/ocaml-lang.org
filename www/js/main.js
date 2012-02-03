@@ -21,7 +21,10 @@ function PrevuImpression(){
 	'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n'
 	+ '"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n'
 	+ '<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">'
-	+ '<head>\n' + head + '</head>\n'
+	+ '<head>\n'
+          + head
+          + '<style type="text/css"> .offset3 { margin-left: 40px; }</style>'
+        + '</head>\n'
 	+ '<body id="Print">\n' + body + '</body>\n'
 	+ '</html>';
     docprint.document.write(strprint);
