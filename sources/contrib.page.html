@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+#include "head.include"
+   <title>OCaml - Tools &amp; Libraries</title>
+</head>
+<body id="Screen">
+
+#include "body.header.include"
+
+#include "body.leftmenu.include"
+
+
+<h1>Tools &amp; Libraries</h1>
+
+<p>This is a list of some interesting software that can be used to
+develop in OCaml.</p>
+
+<h2>The Standard Distribution</h2>
+
+<h3>Standard Tools</h3>
+
+<ul>
+  <li><a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual025.html">ocamlopt</a>, the native code compiler, currently supporting x86,
+  amd64 and arm;
+  <li><a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual022.html">ocamlc</a>, the bytecode compiler, to run OCaml code even on
+  platforms where native code compilation is not available;
+  <li><a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual023.html">ocaml</a>, the toplevel system, allows you to write OCaml code
+  in the terminal and to use OCaml as a scripting language;</li>
+  <li><a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual024.html">ocamlrun</a>, the bytecode interpreter;
+  <li><a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual026.html">ocamllex and ocamlyacc</a>, the lexer and parser generators;</li>
+  <li><a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual029.html">ocamldoc</a>, a documentation generator from OCaml sources;</li>
+  <li><a href="http://brion.inria.fr/gallium/index.php/Camlp4">camlp4</a>, a powerful preprocessor to create OCaml syntax
+  extensions;</li>
+ <li><a href="http://brion.inria.fr/gallium/index.php/Ocamlbuild">ocamlbuild</a>, a portable replacement for make, with automated
+  rules to build OCaml projects;
+</ul>
+
+<h3>Standard Libraries</h3>
+
+<ul>
+  <li>The <a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual035.html">Unix</a> library provides bindings for most Unix system calls;
+  <li>The <a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual037.html">Str</a> library allows you to use regular expressions in OCaml programs;
+  <li>The <a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual036.html">Num</a> library provides arbitrary precision rational arithmetic;
+  <li>The <a href="http://caml.inria.fr/pub/docs/manual-ocaml/manual038.html">Threads</a> library provides concurrency in OCaml programs;
+</ul>
+
+<h2>Contributed Tools</h2>
+
+<ul>
+  <li><a href="http://cristal.inria.fr/~fpottier/menhir/">Menhir</a>
+  is a parser generator for OCaml. It is mostly compatible with
+  ocamlyacc, with many enhancements.
+</ul>
+
+<h2>Contributed Libraries</h2>
+
+<ul>
+<li><a href="http://wwwfun.kurims.kyoto-u.ac.jp/soft/lsl/lablgtk.html">
+LablGTK </a> is a graphical toolkit for OCaml, based on GTK+. The
+latest version is based on GTK
+2.0. A <a href="http://plus.kaist.ac.kr/~shoh/ocaml/lablgtk2/lablgtk2-tutorial/">
+tutorial </a> is also available. Youc can use
+the <a href="http://www.lix.polytechnique.fr/~monate/mlglade/introduction.html">
+MLglade </a> tool to generate LablGTK code from a Wysiwyg interface.
+
+<li><a href="http://ocsigen.org/"> Ocsigen </a> is a Web framework for
+OCaml. Since version 2.0, you can write OCaml code both for
+client-side and server-side in the same source, and the cliend-side
+code is automatically translated to Javascript using the
+OCaml-to-Javascript
+compiler <a href="http://ocsigen.org/js_of_ocaml/">js_of_ocaml</a>.
+
+<li><a href="https://bitbucket.org/yminsky/ocaml-core/wiki/Home">
+Core </a> and <a href="http://batteries.forge.ocamlcore.org/">
+Batteries </a> are two different projects to extend the standard
+library, providing all the functions you always wished for in the
+standard library.
+</ul>
+
+<p>You can find many other OCaml libraries and tools
+on <a href="https://github.com/languages/OCaml">GitHub</a> and
+on <a href="http://forge.ocamlcore.org/">OCamlForge</a>. Many projects
+are also listed in
+the <a href="http://caml.inria.fr/cgi-bin/hump.cgi">OCaml Hump</a></p>
+
+
+#include "body.trailer.include"
+
+
+</body>
+</html>

@@ -19,7 +19,7 @@
   background: url("../img/banner-bottom.jpg");
   height: 19px;
   padding-top: 10px;
-  border-bottom: 4px solid #E0E0E0;
+#  border-bottom: 4px solid #E0E0E0;
 }
 
 .nav {
@@ -177,7 +177,7 @@ a:hover {
 
 #leftmenu .current {
  color: #C25608;
-}  
+}
 
 .misc {
   text-align: center;
