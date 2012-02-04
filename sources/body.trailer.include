@@ -7,7 +7,7 @@
   <div class="container">
    <div class="rows">
 
-    <div class="span3">
+    <div class="offset3 span3">
      <ul>
        <li><h4>Learn</h4></li>
         <li><a href="features.html">Features</a></li>
@@ -18,7 +18,7 @@
     </div>
 
 
-    <div class="offset3 span3">
+    <div class="span3">
       <ul>
         <li><h4>Use</h4></li>
         <li><a href="download.html">Download</a></li>

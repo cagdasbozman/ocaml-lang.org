@@ -27,6 +27,7 @@
   padding-top: 0;
   text-align: left;
   margin-bottom: 50px;
+  border-bottom: 4px solid #E0E0E0;
 }
 .nav ul {
  list-style: none;
