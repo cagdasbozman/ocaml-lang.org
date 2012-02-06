@@ -90,8 +90,8 @@ a:hover {
     background-color: #F8F8F8;
     border-top: 1px solid #E0E0E0;
     border-bottom: 1px solid #E0E0E0;
-    height: 150px;
-    padding-top: 40px;
+    height: 120px;
+    padding-top: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -115,7 +115,6 @@ a:hover {
 
 #main {
     min-height: 600px;
-
 }
 
 #Print .footer {
@@ -143,6 +142,10 @@ a:hover {
   padding-left: 0px;
   margin-left: 10px;
   font-size: 15px;
+}
+
+#rightmenu {
+  padding-top: 20px;
 }
 
 #leftmenu {
@@ -178,6 +181,14 @@ a:hover {
 
 #leftmenu .current {
  color: #C25608;
+}
+
+#rightmenu .news {
+  border-color: #0000e0;
+  background-color: #E0E0E0;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
 }
 
 .misc {
