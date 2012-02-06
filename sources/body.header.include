@@ -25,7 +25,7 @@
 <div id="main" class="container">
 <div class="row">
 
-<div id="leftmenu" class="span3">
+<div id="leftmenu" class="offset1 span3">
 <!--<a href="news.html" title="News">Latest News</a><br/> -->
 
 <h2>Learn</h2>
@@ -62,5 +62,5 @@
 
 </div>
 
-<div class="offset3 span7">
+<div class="span7">
 <div class="content">
