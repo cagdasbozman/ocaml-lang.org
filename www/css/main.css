@@ -191,6 +191,16 @@ a:hover {
   margin-top: 10px;
 }
 
+#rightmenu .version {
+  border-color: #0000e0;
+  background-color: #ffffc0;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+  borderwidth: 2px;
+  border-color: #000000;
+}
+
 .misc {
   text-align: center;
   padding-right: 100px;

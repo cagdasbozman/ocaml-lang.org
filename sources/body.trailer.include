@@ -7,6 +7,9 @@
 <div class="news"> <h4>OCaml Users meeting 2012</h4> Next OCaml Users
 Meeting will be colocated with ICFP'2012, in September in Copenhagen !
 </div>
+<div class="version"> <h4>Stable version is<br/>OCaml 3.12.1</h4>
+ <a href="download.html">Download Page</a>.
+</div>
 </div>
 </div>
 
