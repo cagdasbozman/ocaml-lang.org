@@ -24,9 +24,10 @@ Meeting will be colocated with ICFP'2012, in September in Copenhagen !
      <ul>
        <li><h4>Learn</h4></li>
         <li><a href="features.html">Features</a></li>
+        <li><a href="books.html">Books</a></li>
         <li><a href="tutorials.html">Tutorials</a></li>
         <li><a href="community.html">Community</a></li>
-        <li><a href="applications.html">Applications</a></li>
+        <li><a href="applications.html">Use Cases</a></li>
      </ul>
     </div>
 
@@ -34,6 +35,7 @@ Meeting will be colocated with ICFP'2012, in September in Copenhagen !
     <div class="span3">
       <ul>
         <li><h4>Use</h4></li>
+        <li><a href="news.html">News</a></li>
         <li><a href="download.html">Download</a></li>
        <li><a href="documentation.html">Documentation</a></li>
        <li><a href="contrib.html">Tools&amp;Libraries</a></li>
