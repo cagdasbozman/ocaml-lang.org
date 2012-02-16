@@ -194,6 +194,16 @@ a:hover {
   border-radius: 10px;
 }
 
+#rightmenu .version a:hover {
+  text-decoration: none;                             
+  border-bottom: 0;
+}
+
+#rightmenu .version-dev a:hover {
+  text-decoration: none;                             
+  border-bottom: 0;
+}
+
 #rightmenu .version {
   border-color: #0000e0;
   background-color: #C2F3C7;
@@ -209,7 +219,7 @@ a:hover {
 
 #rightmenu .version-dev {
   border-color: #0000e0;
-  background-color: #F5D0A9;
+  background-color: #F5ECCE;
   text-align: center;
   padding: 10px;
   margin-top: 10px;
