@@ -68,8 +68,8 @@ a:hover {
 }
 
 .logo a {
-	opacity: 0.6;
-	filter: alpha(opacity = 60);
+	opacity: 0.75;
+	filter: alpha(opacity = 75);
 
 }
 .logo a:hover {
