@@ -31,22 +31,22 @@
 
 <h2>Learn</h2>
 <ul>
-<li><a href="http://try.ocamlpro.com/" title="Try OCaml online">Try Online</a></li>
-<li><a href="features.html" title="Discover OCaml Features">Features</a></li>
-<li><a href="books.html" title="Links to books">Books</a></li>
-<li><a href="tutorials.html" title="Links to tutorials">Tutorials</a></li>
-<li><a href="community.html" title="Join the OCaml community">Community</a></li>
-<li><a href="applications.html" title="Discover what you can develop with OCaml">Applications</a></li>
+  <a href="http://try.ocamlpro.com/" title="Try OCaml online"><li>Try Online</li></a>
+  <a href="features.html" title="Discover OCaml Features"><li>Features</li></a>
+  <a href="books.html" title="Links to books"><li>Books</li></a>
+  <a href="tutorials.html" title="Links to tutorials"><li>Tutorials</li></a>
+  <a href="community.html" title="Join the OCaml community"><li>Community</li></a>
+  <a href="applications.html" title="Discover what you can develop with OCaml"><li>Applications</li></a>
 </ul>
 
 <h2>Use</h2>
 <ul>
-<li><a href="news.html" title="Some news">News</a></li>
-<li><a href="download.html" title="Install OCaml">Download</a></li>
-<li><a href="documentation.html" title="Documentation">Documentation</a></li>
-<li><a href="contrib.html">Tools&amp;Libraries</a></li>
-<li><a href="courses.html">Teaching</a></li>
-<li><a href="support.html" title="Licencing issues">Support</a></li>
+  <a href="news.html" title="Some news"><li>News</li></a>
+  <a href="download.html" title="Install OCaml"><li>Download</li></a>
+  <a href="documentation.html" title="Documentation"><li>Documentation</li></a>
+  <a href="contrib.html"><li>Tools&amp;Libraries</li></a>
+  <a href="courses.html"><li>Teaching</li></a>
+  <a href="support.html" title="Licencing issues"><li>Support</li></a>
 </ul>
 
 <br/>
