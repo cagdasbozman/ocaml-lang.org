@@ -14,7 +14,11 @@ Meeting will be colocated with ICFP&#39;2012, in September in Copenhagen !
 </div>
 <div class="version-dev">
  <h4>Next release</h4>
- <h5>OCaml 4.0 <br />ETA: June 2012</h5>
+ <h5>OCaml 4.00 </h5>
+   <h5>ETA:</h5> June 2012
+   <h5>Highlights:</h5> GADTs, improved first-class modules, new ARM backend,
+   mingw-w64 support, optimizations...<br />
+   <a href="http://caml.inria.fr/cgi-bin/viewvc.cgi/ocaml/trunk/Changes?view=markup">more</a>
 </div>
 
 </div>
