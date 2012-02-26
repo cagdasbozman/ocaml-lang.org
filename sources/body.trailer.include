@@ -5,11 +5,11 @@
 <div class="offset10">
 <div id="rightmenu">
 <div class="news"> <h4>OCaml Users meeting 2012</h4> Next OCaml Users
-Meeting will be colocated with ICFP&#39;2012, in September in Copenhagen !
+Meeting will be colocated with ICFP&#39;2012, in September in Copenhagen!
 </div>
 <div class="version">
  <h4>Stable realease</h4>
- <a href="download.html"><img src="images/download_ocaml.png" widht="60" height="25" alt="Download OCaml!" title="Download stable version now !" /></a>
+ <a href="download.html"><img src="images/download_ocaml.png" widht="60" height="25" alt="Download OCaml!" title="Download stable version now!" /></a>
  <h5>OCaml 3.12.1<br />June 2011</h5>
 </div>
 <div class="version-dev">
