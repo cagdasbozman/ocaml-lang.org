@@ -249,7 +249,7 @@ h1 {
 }
 
 .software {
-  position: relative;
+  clear: both;
   top: 20px;
 }
 
