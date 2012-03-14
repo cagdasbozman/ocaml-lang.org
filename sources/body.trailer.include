@@ -10,12 +10,11 @@ Meeting will be colocated with ICFP&#39;2012, in September in Copenhagen !
 <div class="version">
  <h4>Stable realease</h4>
  <a href="download.html"><img src="images/download_ocaml.png" widht="60" height="25" alt="Download OCaml!" title="Download stable version now !" /></a>
- <h5>OCaml 3.12.1<br />04 / 07 / 2011</h5>
+ <h5>OCaml 3.12.1<br />June 2011</h5>
 </div>
 <div class="version-dev">
  <h4>Next release</h4>
- <a href="download.html"><img src="images/download_ocaml.png" widht="60" height="25" alt="Download OCaml!" title="Download now the current development version !" /></a>
- <h5>OCaml 3.13 <br />2012</h5>
+ <h5>OCaml 3.13 or 4.00 <br />ETA: June 2012</h5>
 </div>
 
 </div>
